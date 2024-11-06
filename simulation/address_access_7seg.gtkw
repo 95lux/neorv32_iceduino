@@ -1,0 +1,90 @@
+[*]
+[*] GTKWave Analyzer v3.3.119 (w)1999-2024 BSI
+[*] Tue May 21 15:22:38 2024
+[*]
+[dumpfile] "/home/jonas/tin/SOPC/portfolio/iceduino_setup/simulation/neorv32_iceduino_top_tb.ghw"
+[dumpfile_mtime] "Tue May 21 15:07:12 2024"
+[dumpfile_size] 37081920
+[savefile] "/home/jonas/tin/SOPC/portfolio/iceduino_setup/simulation/address_access.gtkw"
+[timestart] 267700000000
+[size] 1918 1005
+[pos] -974 -20
+*-33.115211 291500000000 273450000000 275110000000 276890000000 278670000000 280450000000 282230000000 284010000000 285790000000 287570000000 289350000000 290810000000 292770000000 294730000000 296690000000 298650000000 300610000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[markername] A'0'
+[markername] B'1'
+[markername] C'2'
+[markername] D'3'
+[markername] E'4'
+[markername] F'5'
+[markername] G'6'
+[markername] H'7'
+[markername] I'8'
+[markername] J'9'
+[markername] K'a'
+[markername] L'b'
+[markername] M'c'
+[markername] N'd'
+[markername] O'e'
+[markername] P'f'
+[treeopen] top.
+[treeopen] top.neorv32_iceduino_top_tb.
+[treeopen] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.
+[treeopen] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.
+[treeopen] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.neorv32_inst.neorv32_int_dmem_inst_true.
+[treeopen] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.neorv32_inst.neorv32_int_dmem_inst_true.neorv32_int_dmem_inst.mem_ram_b0.
+[sst_width] 496
+[signals_width] 373
+[sst_expanded] 1
+[sst_vpaned_height] 533
+@29
+#{top.neorv32_iceduino_top_tb.segdisp[6:0]} top.neorv32_iceduino_top_tb.segdisp[6] top.neorv32_iceduino_top_tb.segdisp[5] top.neorv32_iceduino_top_tb.segdisp[4] top.neorv32_iceduino_top_tb.segdisp[3] top.neorv32_iceduino_top_tb.segdisp[2] top.neorv32_iceduino_top_tb.segdisp[1] top.neorv32_iceduino_top_tb.segdisp[0]
+@28
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.we_i
+@c00022
+#{top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[31:0]} top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[31] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[30] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[29] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[28] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[27] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[26] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[25] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[24] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[23] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[22] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[21] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[20] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[19] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[18] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[17] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[16] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[15] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[14] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[13] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[12] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[11] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[10] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[9] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[8] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[7] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[6] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[5] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[4] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[3] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[2] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[1] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[0]
+@28
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[31]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[30]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[29]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[28]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[27]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[26]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[25]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[24]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[23]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[22]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[21]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[20]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[19]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[18]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[17]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[16]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[15]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[14]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[13]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[12]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[11]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[10]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[9]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[8]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[7]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[6]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[5]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[4]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[3]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[2]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[1]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.adr_i[0]
+@1401200
+-group_end
+@800022
+#{top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[31:0]} top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[31] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[30] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[29] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[28] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[27] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[26] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[25] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[24] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[23] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[22] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[21] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[20] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[19] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[18] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[17] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[16] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[15] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[14] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[13] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[12] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[11] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[10] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[9] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[8] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[7] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[6] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[5] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[4] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[3] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[2] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[1] top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[0]
+@28
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[3]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[2]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[1]
+top.neorv32_iceduino_top_tb.neorv32_iceduino_inst.iceduino_7seg_inst.dat_i[0]
+@1001202
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

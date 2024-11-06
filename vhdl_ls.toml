@@ -1,0 +1,15 @@
+# File names are either absolute or relative to the parent folder of the
+# vhdl_ls.toml file and supports glob-style patterns.
+
+[libraries]
+
+# Defines library lib2
+iceduino.files = [
+  'osflow/boards/iceduino/**/*.vhd',
+]
+neorv32.files = [
+  'neorv32/rtl/core/**/*.vhd',
+]
+iCE40.files = [
+  'osflow/device/ice40/sb_ice40_components.vhd'
+]

@@ -1,0 +1,4 @@
+v 4
+file . "WS2812_fsm.vhd" "67ce3a7adb30d583fb39e29adf3dcd40aad323f0" "20240612171429.070":
+  entity ws2812_fsm at 1( 0) + 0 on 11;
+  architecture behavioral of ws2812_fsm at 21( 565) + 0 on 12;
