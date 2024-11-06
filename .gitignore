@@ -1,0 +1,47 @@
+# Build and object files
+*.o
+*.obj
+*.a
+*.so
+*.lo
+*.la
+*.out
+
+# Simulation and synthesis outputs
+*.vcd
+*.ghw
+*.log
+*.json
+*.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Yosys-specific files
+yosys.*
+*.ys
+
+# Verilator-specific files
+*.vpi
+
+# General VHDL outputs
+*.pb
+*.h
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
